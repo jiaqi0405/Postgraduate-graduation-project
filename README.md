@@ -1,6 +1,4 @@
 # Postgraduate-graduation-project
-Development of a GUI-Based Analysis Framework for Comparative Evaluation of Static and Dynamic SSVEP Brain-Computer Interface Paradigms
-  Project Overview
 This project presents a comprehensive graphical user interface (GUI) framework designed for systematic comparison and evaluation of static and dynamic Steady-State Visual Evoked Potential (SSVEP) brain-computer interface paradigms. The system serves as an integrated research platform that enables researchers to configure, execute, and analyze SSVEP experiments with flexible parameter control. Here are the core functionality of this system:
   
 1. Paradigm Selection
