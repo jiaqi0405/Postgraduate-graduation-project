@@ -33,5 +33,5 @@ Twenty.wav - Play "Twenty minutes left, please get ready".
 icon.png - A logo image.  
 
 SSVEP public dataset link  
-SSVEP Benchmark dataset - https://bci.med.tsinghua.edu.cn/download.html
+SSVEP Benchmark dataset - https://bci.med.tsinghua.edu.cn/download.html  
 DF-SSMVEP datasets - https://github.com/raykakarimi/DFSSMVEP/tree/gh-pages/Dataset
