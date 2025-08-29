@@ -30,4 +30,8 @@ trca_integration.py - Bridges the TRCA algorithm with the GUI system, managing d
 Audio files and image files    
 All.wav - Play "All blocks finished".  
 Twenty.wav - Play "Twenty minutes left, please get ready".  
-icon.png - A logo image.
+icon.png - A logo image.  
+
+SSVEP public dataset link  
+SSVEP Benchmark dataset - https://bci.med.tsinghua.edu.cn/download.html
+DF-SSMVEP datasets - https://github.com/raykakarimi/DFSSMVEP/tree/gh-pages/Dataset
